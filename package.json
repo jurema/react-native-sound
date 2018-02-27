@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-sound",
+        "scope": null,
+        "escapedName": "react-native-sound",
+        "name": "react-native-sound",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/viniciusmonteiro/work/sopha-client"
+    ]
+  ],
+  "_from": "react-native-sound@latest",
+  "_id": "react-native-sound@0.10.8",
+  "_inCache": true,
+  "_location": "/react-native-sound",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-sound_0.10.8_1519666630805_0.7694437510798751"
+  },
+  "_npmUser": {
+    "name": "trepidity",
+    "email": "jared@jaredjennings.org"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-sound",
+    "scope": null,
+    "escapedName": "react-native-sound",
+    "name": "react-native-sound",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sound/-/react-native-sound-0.10.8.tgz",
+  "_shasum": "07b785b93eca0ba8dc35b841a0d68799d807f515",
+  "_shrinkwrap": null,
+  "_spec": "react-native-sound",
+  "_where": "/Users/viniciusmonteiro/work/sopha-client",
+  "author": {
+    "name": "Zhen Wang",
+    "email": "z@zmxv.com",
+    "url": "http://blog.zmxv.com"
+  },
+  "bugs": {
+    "url": "https://github.com/zmxv/react-native-sound/issues"
+  },
+  "dependencies": {},
+  "description": "React Native module for playing sound clips on iOS, Android, and Windows",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "07b785b93eca0ba8dc35b841a0d68799d807f515",
+    "tarball": "https://registry.npmjs.org/react-native-sound/-/react-native-sound-0.10.8.tgz",
+    "fileCount": 28,
+    "unpackedSize": 63648
+  },
+  "homepage": "https://github.com/zmxv/react-native-sound#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "sound",
+    "audio"
+  ],
+  "license": "MIT",
+  "licenseText": "The MIT License (MIT)\n\nCopyright (c) 2015 Zhen Wang\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+  "main": "sound.js",
+  "maintainers": [
+    {
+      "name": "benvium",
+      "email": "ben@calvium.com"
+    },
+    {
+      "name": "trepidity",
+      "email": "jared@jaredjennings.org"
+    },
+    {
+      "name": "zmxv",
+      "email": "z@zmxv.com"
+    }
+  ],
+  "name": "react-native-sound",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.8.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmxv/react-native-sound.git"
+  },
+  "typings": "index.d.ts",
+  "version": "0.10.8"
+}
